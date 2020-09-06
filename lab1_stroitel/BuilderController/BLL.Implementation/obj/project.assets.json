@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "BLL.Abstract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "BLL.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BLL.Abstract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLL.Abstract.dll": {}
+        }
+      },
+      "BLL.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/BLL.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLL.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BLL.Abstract/1.0.0": {
+      "type": "project",
+      "path": "../BLL.Abstract/BLL.Abstract.csproj",
+      "msbuildProject": "../BLL.Abstract/BLL.Abstract.csproj"
+    },
+    "BLL.Models/1.0.0": {
+      "type": "project",
+      "path": "../BLL.Models/BLL.Models.csproj",
+      "msbuildProject": "../BLL.Models/BLL.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "BLL.Abstract >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/juliastanko/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Implementation/BLL.Implementation.csproj",
+      "projectName": "BLL.Implementation",
+      "projectPath": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Implementation/BLL.Implementation.csproj",
+      "packagesPath": "/Users/juliastanko/.nuget/packages/",
+      "outputPath": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Implementation/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/juliastanko/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Abstract/BLL.Abstract.csproj": {
+              "projectPath": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Abstract/BLL.Abstract.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
