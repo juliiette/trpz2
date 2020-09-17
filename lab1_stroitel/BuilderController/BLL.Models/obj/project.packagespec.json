@@ -1,19 +1,19 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj",
+    "projectUniqueName": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj",
     "projectName": "BLL.Models",
-    "projectPath": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj",
-    "outputPath": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Models/obj/",
+    "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj",
+    "outputPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
-      "netcoreapp3.0"
+      "netcoreapp3.1"
     ],
     "sources": {
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
-      "netcoreapp3.0": {
+      "netcoreapp3.1": {
         "projectReferences": {}
       }
     },
@@ -24,7 +24,7 @@
     }
   },
   "frameworks": {
-    "netcoreapp3.0": {
+    "netcoreapp3.1": {
       "imports": [
         "net461",
         "net462",

@@ -1,10 +1,10 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {
+    ".NETCoreApp,Version=v3.1": {
       "BLL.Models/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
+        "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
           "bin/placeholder/BLL.Models.dll": {}
         },
@@ -22,7 +22,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": [
+    ".NETCoreApp,Version=v3.1": [
       "BLL.Models >= 1.0.0"
     ]
   },
@@ -32,26 +32,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Abstract/BLL.Abstract.csproj",
+      "projectUniqueName": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Abstract/BLL.Abstract.csproj",
       "projectName": "BLL.Abstract",
-      "projectPath": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Abstract/BLL.Abstract.csproj",
+      "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Abstract/BLL.Abstract.csproj",
       "packagesPath": "/Users/juliastanko/.nuget/packages/",
-      "outputPath": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Abstract/obj/",
+      "outputPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Abstract/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/juliastanko/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj": {
-              "projectPath": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj"
+            "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj": {
+              "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj"
             }
           }
         }
@@ -63,7 +63,7 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.0": {
+      "netcoreapp3.1": {
         "imports": [
           "net461",
           "net462",

@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL.Abstract", "BLL.Abstrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL.Implementation", "BLL.Implementation\BLL.Implementation.csproj", "{D053D834-3DDF-4BBB-939C-DEBF7E923D4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderTerminal", "BuilderTerminal\BuilderTerminal.csproj", "{7F2691BF-5E9D-41F3-93D6-883B14141F02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{D053D834-3DDF-4BBB-939C-DEBF7E923D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D053D834-3DDF-4BBB-939C-DEBF7E923D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D053D834-3DDF-4BBB-939C-DEBF7E923D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2691BF-5E9D-41F3-93D6-883B14141F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2691BF-5E9D-41F3-93D6-883B14141F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2691BF-5E9D-41F3-93D6-883B14141F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2691BF-5E9D-41F3-93D6-883B14141F02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b268865-d2fa-40d3-834c-c8b50c866c1f" name="Default Changelist" comment="" />
+    <list default="true" id="5b268865-d2fa-40d3-834c-c8b50c866c1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BuilderTerminal/BuilderTerminal.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderTerminal/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderTerminal/obj/Console.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderTerminal/obj/Console.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderTerminal/obj/Console.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderTerminal/obj/Debug/netcoreapp3.0/Console.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderTerminal/obj/Debug/netcoreapp3.0/Console.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderTerminal/obj/Debug/netcoreapp3.0/Console.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderTerminal/obj/Debug/netcoreapp3.1/Console.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderTerminal/obj/Debug/netcoreapp3.1/Console.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderTerminal/obj/Debug/netcoreapp3.1/Console.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderTerminal/obj/Debug/netcoreapp3.1/Console.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderTerminal/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderTerminal/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BuilderController/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BuilderController/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BuilderController/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BuilderController/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Abstract/BLL.Abstract.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Abstract/BLL.Abstract.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Abstract/IBuilderService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Abstract/IBuilderService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Abstract/obj/BLL.Abstract.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Abstract/obj/BLL.Abstract.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Abstract/obj/BLL.Abstract.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Abstract/obj/BLL.Abstract.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Abstract/obj/Debug/netcoreapp3.0/BLL.Abstract.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Abstract/obj/Debug/netcoreapp3.0/BLL.Abstract.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Abstract/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Abstract/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Abstract/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Abstract/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Implementation/BLL.Implementation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Implementation/BLL.Implementation.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Implementation/BuilderService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Implementation/BuilderService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Implementation/obj/BLL.Implementation.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Implementation/obj/BLL.Implementation.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Implementation/obj/BLL.Implementation.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Implementation/obj/BLL.Implementation.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Implementation/obj/Debug/netcoreapp3.0/BLL.Implementation.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Implementation/obj/Debug/netcoreapp3.0/BLL.Implementation.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Implementation/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Implementation/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Implementation/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Implementation/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Models/BLL.Models.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Models/BLL.Models.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Models/obj/BLL.Models.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Models/obj/BLL.Models.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Models/obj/BLL.Models.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Models/obj/BLL.Models.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Models/obj/Debug/netcoreapp3.0/BLL.Models.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Models/obj/Debug/netcoreapp3.0/BLL.Models.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Models/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Models/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL.Models/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Models/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuilderController.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BuilderController.sln" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +47,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BLL.Models/BuilderModel.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -23,64 +61,84 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BLL.Abstract/IBuilderService.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BLL.Implementation/BuilderService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+            <state relative-caret-position="92">
+              <caret line="146" column="55" selection-start-line="146" selection-start-column="55" selection-end-line="146" selection-end-column="55" />
               <folding>
-                <marker date="1599385400084" expanded="true" signature="41:446" ph="{...}" />
-                <marker date="1599385400084" expanded="true" signature="80:444" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="6:137" ph="..." />
+                <marker date="1600334892470" expanded="true" signature="167:4954" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="219:4952" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="275:1042" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="301:900" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="357:730" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="396:620" ph="/* var resManager = new ResourceManager(&quot;BLL.Implementation/Resources/ExceptionMessages.resx&quot;, Assembly.GetExecut ... */" />
+                <marker date="1600334892470" expanded="true" signature="751:886" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="932:1006" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="1093:1546" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="1119:1417" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="1175:1261" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="1282:1403" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="1449:1523" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="1611:2572" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="1637:2456" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="1691:2300" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="1746:1889" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="1945:2153" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="2178:2282" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="2321:2442" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="2488:2562" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="2635:3430" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="2661:3314" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="2715:3158" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="2767:2913" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="2938:3140" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="3179:3300" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="3346:3420" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="3483:3827" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="3542:3683" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="3598:3669" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="3715:3789" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="3882:4394" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="3937:4238" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="3991:4082" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="4103:4224" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="4270:4344" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="4452:4511" ph="{...}" />
+                <marker date="1600334892470" expanded="true" signature="4629:4946" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BLL.Implementation/BuilderService.cs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BLL.Abstract/IBuilderService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="152" column="13" lean-forward="true" selection-start-line="152" selection-start-column="13" selection-end-line="152" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
               <folding>
-                <marker date="1599400600829" expanded="true" signature="6:137" ph="..." />
-                <marker date="1599400600829" expanded="true" signature="167:4538" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="219:4536" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="283:1047" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="309:905" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="365:735" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="404:628" ph="/* var resManager = new ResourceManager(&quot;BLL.Implementation/Resources/ExceptionMessages.resx&quot;, Assembly.GetExecut ... */" />
-                <marker date="1599400600829" expanded="true" signature="756:891" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="937:1011" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="1098:1551" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="1124:1422" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="1180:1266" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="1287:1408" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="1454:1528" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="1616:2591" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="1642:2475" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="1696:2319" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="1751:1901" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="1957:2172" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="2197:2301" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="2340:2461" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="2507:2581" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="2654:3449" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="2680:3333" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="2734:3177" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="2786:2932" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="2957:3159" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="3198:3319" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="3365:3439" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="3502:3846" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="3561:3702" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="3617:3688" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="3734:3808" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="3901:4413" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="3956:4257" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="4010:4101" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="4122:4243" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="4289:4363" ph="{...}" />
-                <marker date="1599400600829" expanded="true" signature="4471:4530" ph="{...}" />
+                <marker date="1600333530898" expanded="true" signature="41:558" ph="{...}" />
+                <marker date="1600333530898" expanded="true" signature="80:556" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BuilderTerminal/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+              <folding>
+                <marker date="1600333777787" expanded="true" signature="6:231" ph="..." />
+                <marker date="1600333777787" expanded="true" signature="258:4542" ph="{...}" />
+                <marker date="1600333777787" expanded="true" signature="278:4540" ph="{...}" />
+                <marker date="1600333777787" expanded="true" signature="413:4534" ph="{...}" />
+                <marker date="1600333777787" expanded="true" signature="978:4511" ph="{...}" />
+                <marker date="1600333777787" expanded="true" signature="1114:4497" ph="{...}" />
+                <marker date="1600333777787" expanded="true" signature="1269:1868" ph="{...}" />
+                <marker date="1600333777787" expanded="true" signature="1923:2027" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -88,23 +146,21 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/BLL.Implementation/Exceptions/MoreTimeForBreakException.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BLL.Abstract/IBuilderService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BLL.Implementation/Exceptions/LimitedBricksPerSessionException.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BLL.Implementation/Exceptions/BuilderNotAtWorkException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BLL.Implementation/Resources/ExceptionMessages.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BLL.Implementation/Resources/ExceptionMessages.resx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BLL.Implementation/Exceptions/BuilderAtWorkException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BLL.Implementation/BuilderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.Implementation/Resources/ExceptionMessages.resx" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BLL.Models/BuilderModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.Abstract/IBuilderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BuilderTerminal/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BLL.Models/BuilderModel.cs" />
         <option value="$PROJECT_DIR$/BLL.Abstract/Class1.cs" />
-        <option value="$PROJECT_DIR$/BLL.Abstract/IBuilderService.cs" />
         <option value="$PROJECT_DIR$/BLL.Implementation/Class1.cs" />
         <option value="$PROJECT_DIR$/BLL.Implementation/Exceptions/BuilderExceptions.cs" />
         <option value="$PROJECT_DIR$/BLL.Implementation/Exceptions/BuilderAtWorkException.cs" />
@@ -112,20 +168,33 @@
         <option value="$PROJECT_DIR$/BLL.Implementation/Exceptions/BuilderNotAtWorkException.cs" />
         <option value="$PROJECT_DIR$/BLL.Implementation/Exceptions/LimitedBricksPerSessionException.cs" />
         <option value="$PROJECT_DIR$/BLL.Implementation/Exceptions/MoreTimeForBreakException.cs" />
+        <option value="$PROJECT_DIR$/Console/Commands.cs" />
+        <option value="$PROJECT_DIR$/Console/Program.cs" />
+        <option value="$PROJECT_DIR$/BLL.Models/BuilderModel.cs" />
+        <option value="$PROJECT_DIR$/BLL.Abstract/IBuilderService.cs" />
+        <option value="$PROJECT_DIR$/BuilderTerminal/Program.cs" />
         <option value="$PROJECT_DIR$/BLL.Implementation/BuilderService.cs" />
       </list>
     </option>
   </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.BuilderController/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="180" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -148,18 +217,23 @@
               <item name="BuilderController" type="24d0babc:SolutionExplorerModelNode" />
               <item name="BLL.Models" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BuilderController" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="BuilderTerminal" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -177,6 +251,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/BuilderTerminal/bin/Debug/netcoreapp3.1/BuilderTerminal.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BuilderTerminal" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BuilderTerminal/BuilderTerminal.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -188,11 +282,14 @@
       <option name="presentableId" value="Default" />
       <updated>1599384501696</updated>
       <workItem from="1599384502884" duration="7047000" />
+      <workItem from="1600264144649" duration="234000" />
+      <workItem from="1600290999262" duration="424000" />
+      <workItem from="1600295436533" duration="6751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7047000" />
+    <option name="totallyTimeSpent" value="14456000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -204,37 +301,38 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.3299363" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5949045" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3299363" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -247,47 +345,12 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BLL.Models/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BLL.Abstract/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BLL.Implementation/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BLL.Models/BuilderModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding>
-            <marker date="1599384921285" expanded="true" signature="20:312" ph="{...}" />
-            <marker date="1599384921285" expanded="true" signature="52:310" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BLL.Implementation/Exceptions/BuilderExceptions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BLL.Implementation/ExceptionMessage.Designer.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BLL.Implementation/ExceptionMessage.resx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL.Models/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/BLL.Abstract/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/BLL.Implementation/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/BLL.Implementation/Exceptions/BuilderExceptions.cs" />
+    <entry file="file://$PROJECT_DIR$/BLL.Implementation/ExceptionMessage.Designer.cs" />
+    <entry file="file://$PROJECT_DIR$/BLL.Implementation/ExceptionMessage.resx" />
     <entry file="file://$PROJECT_DIR$/BLL.Implementation/Resources/ExceptionMessages.Designer.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -295,18 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="54" lean-forward="true" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BLL.Implementation/Exceptions/BuilderAtWorkException.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="15" selection-end-column="63" />
-          <folding>
-            <marker date="1599395457720" expanded="true" signature="6:49" ph="..." />
-            <marker date="1599395457720" expanded="true" signature="90:531" ph="{...}" />
-            <marker date="1599395457720" expanded="true" signature="155:529" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -318,17 +369,6 @@
             <marker date="1599399130234" expanded="true" signature="6:49" ph="..." />
             <marker date="1599399130234" expanded="true" signature="90:534" ph="{...}" />
             <marker date="1599399130234" expanded="true" signature="147:532" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BLL.Abstract/IBuilderService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-          <folding>
-            <marker date="1599385400084" expanded="true" signature="41:446" ph="{...}" />
-            <marker date="1599385400084" expanded="true" signature="80:444" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -357,50 +397,104 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BLL.Implementation/Exceptions/BuilderAtWorkException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuilderTerminal/Commands.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL.Models/BuilderModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding>
+            <marker date="1599384921285" expanded="true" signature="20:312" ph="{...}" />
+            <marker date="1599384921285" expanded="true" signature="52:310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL.Abstract/IBuilderService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <marker date="1600333530898" expanded="true" signature="41:558" ph="{...}" />
+            <marker date="1600333530898" expanded="true" signature="80:556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuilderTerminal/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <marker date="1600333777787" expanded="true" signature="6:231" ph="..." />
+            <marker date="1600333777787" expanded="true" signature="258:4542" ph="{...}" />
+            <marker date="1600333777787" expanded="true" signature="278:4540" ph="{...}" />
+            <marker date="1600333777787" expanded="true" signature="413:4534" ph="{...}" />
+            <marker date="1600333777787" expanded="true" signature="978:4511" ph="{...}" />
+            <marker date="1600333777787" expanded="true" signature="1114:4497" ph="{...}" />
+            <marker date="1600333777787" expanded="true" signature="1269:1868" ph="{...}" />
+            <marker date="1600333777787" expanded="true" signature="1923:2027" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BLL.Implementation/BuilderService.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="152" column="13" lean-forward="true" selection-start-line="152" selection-start-column="13" selection-end-line="152" selection-end-column="13" />
+        <state relative-caret-position="92">
+          <caret line="146" column="55" selection-start-line="146" selection-start-column="55" selection-end-line="146" selection-end-column="55" />
           <folding>
-            <marker date="1599400600829" expanded="true" signature="6:137" ph="..." />
-            <marker date="1599400600829" expanded="true" signature="167:4538" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="219:4536" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="283:1047" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="309:905" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="365:735" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="404:628" ph="/* var resManager = new ResourceManager(&quot;BLL.Implementation/Resources/ExceptionMessages.resx&quot;, Assembly.GetExecut ... */" />
-            <marker date="1599400600829" expanded="true" signature="756:891" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="937:1011" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="1098:1551" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="1124:1422" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="1180:1266" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="1287:1408" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="1454:1528" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="1616:2591" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="1642:2475" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="1696:2319" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="1751:1901" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="1957:2172" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="2197:2301" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="2340:2461" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="2507:2581" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="2654:3449" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="2680:3333" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="2734:3177" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="2786:2932" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="2957:3159" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="3198:3319" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="3365:3439" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="3502:3846" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="3561:3702" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="3617:3688" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="3734:3808" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="3901:4413" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="3956:4257" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="4010:4101" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="4122:4243" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="4289:4363" ph="{...}" />
-            <marker date="1599400600829" expanded="true" signature="4471:4530" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="6:137" ph="..." />
+            <marker date="1600334892470" expanded="true" signature="167:4954" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="219:4952" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="275:1042" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="301:900" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="357:730" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="396:620" ph="/* var resManager = new ResourceManager(&quot;BLL.Implementation/Resources/ExceptionMessages.resx&quot;, Assembly.GetExecut ... */" />
+            <marker date="1600334892470" expanded="true" signature="751:886" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="932:1006" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="1093:1546" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="1119:1417" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="1175:1261" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="1282:1403" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="1449:1523" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="1611:2572" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="1637:2456" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="1691:2300" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="1746:1889" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="1945:2153" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="2178:2282" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="2321:2442" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="2488:2562" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="2635:3430" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="2661:3314" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="2715:3158" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="2767:2913" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="2938:3140" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="3179:3300" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="3346:3420" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="3483:3827" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="3542:3683" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="3598:3669" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="3715:3789" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="3882:4394" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="3937:4238" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="3991:4082" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="4103:4224" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="4270:4344" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="4452:4511" ph="{...}" />
+            <marker date="1600334892470" expanded="true" signature="4629:4946" ph="{...}" />
           </folding>
         </state>
       </provider>

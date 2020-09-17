@@ -8,7 +8,7 @@
         <e p="IBuilderService.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp3.0" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="BLL.Abstract.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
@@ -18,15 +18,9 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="BLL.Implementation.csproj" t="IncludeRecursive" />
         <e p="BuilderService.cs" t="Include" />
-        <e p="Exceptions" t="Include">
-          <e p="BuilderAtWorkException.cs" t="Include" />
-          <e p="BuilderNotAtWorkException.cs" t="Include" />
-          <e p="LimitedBricksPerSessionException.cs" t="Include" />
-          <e p="MoreTimeForBreakException.cs" t="Include" />
-        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp3.0" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="BLL.Implementation.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
@@ -42,16 +36,28 @@
         <e p="BuilderModel.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp3.0" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="BLL.Models.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
       </e>
       <e p="BuilderController.sln" t="IncludeFlat" />
+      <e p="BuilderTerminal" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BuilderTerminal.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BuilderTerminal.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_BuilderController.-1312465865.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_BuilderController.-1292870716.00" t="ExcludeRecursive" />
   </component>
 </project>

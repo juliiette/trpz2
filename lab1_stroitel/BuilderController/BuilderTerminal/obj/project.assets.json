@@ -1,0 +1,186 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.Extensions.DependencyInjection/3.1.8": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.8"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.8": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "BLL.Abstract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BLL.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BLL.Abstract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLL.Abstract.dll": {}
+        }
+      },
+      "BLL.Implementation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BLL.Abstract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BLL.Implementation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLL.Implementation.dll": {}
+        }
+      },
+      "BLL.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/BLL.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLL.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection/3.1.8": {
+      "sha512": "1TrCCRTjgfrzfUt7RRgqZ2WQl71jRGC00eYpDDwD/dGY04//rE4LKSbzoReZ8uqYXBJ4uLvByHpOuqAjSX09AQ==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection/3.1.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.xml",
+        "microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.8": {
+      "sha512": "PcGZFosGB5kb0toOuql0Gt0o3waLEaMjahd4kf4oEFjPpSiPY9ZtcqjnpmzPMukWW958clBMRWst1yot6c6HSw==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec"
+      ]
+    },
+    "BLL.Abstract/1.0.0": {
+      "type": "project",
+      "path": "../BLL.Abstract/BLL.Abstract.csproj",
+      "msbuildProject": "../BLL.Abstract/BLL.Abstract.csproj"
+    },
+    "BLL.Implementation/1.0.0": {
+      "type": "project",
+      "path": "../BLL.Implementation/BLL.Implementation.csproj",
+      "msbuildProject": "../BLL.Implementation/BLL.Implementation.csproj"
+    },
+    "BLL.Models/1.0.0": {
+      "type": "project",
+      "path": "../BLL.Models/BLL.Models.csproj",
+      "msbuildProject": "../BLL.Models/BLL.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "BLL.Abstract >= 1.0.0",
+      "BLL.Implementation >= 1.0.0",
+      "BLL.Models >= 1.0.0",
+      "Microsoft.Extensions.DependencyInjection >= 3.1.8"
+    ]
+  },
+  "packageFolders": {
+    "/Users/juliastanko/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BuilderTerminal/BuilderTerminal.csproj",
+      "projectName": "BuilderTerminal",
+      "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BuilderTerminal/BuilderTerminal.csproj",
+      "packagesPath": "/Users/juliastanko/.nuget/packages/",
+      "outputPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BuilderTerminal/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/juliastanko/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Abstract/BLL.Abstract.csproj": {
+              "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Abstract/BLL.Abstract.csproj"
+            },
+            "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Implementation/BLL.Implementation.csproj": {
+              "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Implementation/BLL.Implementation.csproj"
+            },
+            "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj": {
+              "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[3.1.8, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

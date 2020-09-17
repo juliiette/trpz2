@@ -1,22 +1,22 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Abstract/BLL.Abstract.csproj",
+    "projectUniqueName": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Abstract/BLL.Abstract.csproj",
     "projectName": "BLL.Abstract",
-    "projectPath": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Abstract/BLL.Abstract.csproj",
-    "outputPath": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Abstract/obj/",
+    "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Abstract/BLL.Abstract.csproj",
+    "outputPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Abstract/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
-      "netcoreapp3.0"
+      "netcoreapp3.1"
     ],
     "sources": {
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
-      "netcoreapp3.0": {
+      "netcoreapp3.1": {
         "projectReferences": {
-          "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj": {
-            "projectPath": "/Users/juliastanko/Documents/university/trpz/program enginering components/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj"
+          "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj": {
+            "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj"
           }
         }
       }
@@ -28,7 +28,7 @@
     }
   },
   "frameworks": {
-    "netcoreapp3.0": {
+    "netcoreapp3.1": {
       "imports": [
         "net461",
         "net462",

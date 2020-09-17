@@ -17,5 +17,7 @@ namespace BLL.Abstract
         int GetBricksNum(BuilderModel builder);
 
         int GetBreakingTime(BuilderModel builder);
+
+        BuilderModel AddBuilder(int id, string name, bool atWorkStatus, int bricksPerSession, int minOnBreak);
     }
 }

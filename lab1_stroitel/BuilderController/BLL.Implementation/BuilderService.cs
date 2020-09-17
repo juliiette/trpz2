@@ -9,7 +9,7 @@ namespace BLL.Implementation
 {
     public class BuilderService : IBuilderService
     {
-        
+
         public void GoWork(BuilderModel builder)
         {
             try
@@ -18,7 +18,7 @@ namespace BLL.Implementation
                 {
                     // var resManager = new ResourceManager("BLL.Implementation/Resources/ExceptionMessages.resx", Assembly.GetExecutingAssembly());
                     // throw new BuilderAtWorkException(resManager.GetString("BuilderAtWork"));
-                    throw new BuilderAtWorkException("The builder is already at work.");
+                    throw new InvalidOperationException("The builder is already at work.");
                 }
                 else
                 {
@@ -44,7 +44,7 @@ namespace BLL.Implementation
                 }
                 else
                 {
-                    throw new BuilderNotAtWorkException("The builder is chilling.");
+                    throw new InvalidOperationException("The builder is chilling.");
                 }
             }
             catch (Exception e)
@@ -62,12 +62,12 @@ namespace BLL.Implementation
                 {
                     if (bricks > 20)
                     {
-                        throw new LimitedBricksPerSessionException("Number of bricks must be under 20.");
+                        throw new InvalidOperationException("Number of bricks must be under 20.");
                     }
 
                     if (builder.BricksPerSession > 80)
                     {
-                        throw new LimitedBricksPerSessionException("Too much work for builder. He will have break now.");
+                        throw new InvalidOperationException("Too much work for builder. He will have break now.");
                         HaveABreak(builder, 15);
                     }
                     else
@@ -77,7 +77,7 @@ namespace BLL.Implementation
                 }
                 else
                 {
-                    throw new BuilderNotAtWorkException("The builder is chilling.");
+                    throw new InvalidOperationException("The builder is chilling.");
                 }
             }
             catch (Exception e)
@@ -94,7 +94,7 @@ namespace BLL.Implementation
                 {
                     if (min < 15)
                     {
-                        throw new MoreTimeForBreakException("Builder should chill at least 15 min.");
+                        throw new InvalidOperationException("Builder should chill at least 15 min.");
                     }
                     else
                     {
@@ -105,7 +105,7 @@ namespace BLL.Implementation
                 }
                 else
                 {
-                    throw new BuilderNotAtWorkException("The builder is chilling.");
+                    throw new InvalidOperationException("The builder is chilling.");
                 }
             }
             catch (Exception e)
@@ -144,7 +144,7 @@ namespace BLL.Implementation
                 }
                 else
                 {
-                    throw new BuilderNotAtWorkException("The builder is chilling.");
+                    throw new InvalidOperationException("The builder is chilling.");
                 }
             }
             catch (Exception e)
@@ -158,6 +158,18 @@ namespace BLL.Implementation
         public int GetBreakingTime(BuilderModel builder)
         {
             return builder.MinOnBreak;
+        }
+
+        public BuilderModel AddBuilder(int id, string name, bool atWorkStatus, int bricksPerSession, int minOnBreak)
+        {
+            BuilderModel builder = new BuilderModel();
+            builder.Id = id;
+            builder.Name = name;
+            builder.AtWorkStatus = atWorkStatus;
+            builder.BricksPerSession = bricksPerSession;
+            builder.MinOnBreak = minOnBreak;
+
+            return builder;
         }
     }
 }
