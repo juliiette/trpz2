@@ -1,0 +1,12 @@
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Console/bin/Debug/netcoreapp3.1/BuilderConsole.deps.json
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Console/bin/Debug/netcoreapp3.1/BuilderConsole.dll
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Console/bin/Debug/netcoreapp3.1/BuilderConsole.pdb
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Console/bin/Debug/netcoreapp3.1/Model.dll
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Console/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Console/obj/Debug/netcoreapp3.1/Console.csprojAssemblyReference.cache
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Console/obj/Debug/netcoreapp3.1/Console.csproj.CoreCompileInputs.cache
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Console/obj/Debug/netcoreapp3.1/Console.AssemblyInfoInputs.cache
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Console/obj/Debug/netcoreapp3.1/Console.AssemblyInfo.cs
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Console/obj/Debug/netcoreapp3.1/Console.csproj.CopyComplete
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Console/obj/Debug/netcoreapp3.1/BuilderConsole.dll
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Console/obj/Debug/netcoreapp3.1/BuilderConsole.pdb

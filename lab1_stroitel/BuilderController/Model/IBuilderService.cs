@@ -1,6 +1,5 @@
-using BLL.Models;
 
-namespace BLL.Abstract
+namespace Model
 {
     public interface IBuilderService
     {

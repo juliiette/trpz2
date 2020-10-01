@@ -2,58 +2,32 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeFlat">
-      <e p="BLL.Abstract" t="IncludeRecursive">
+      <e p="BuilderConsole" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
-        <e p="BLL.Abstract.csproj" t="IncludeRecursive" />
-        <e p="IBuilderService.cs" t="Include" />
+        <e p="BuilderConsole.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
-              <e p="BLL.Abstract.AssemblyInfo.cs" t="Include" />
-            </e>
-          </e>
-        </e>
-      </e>
-      <e p="BLL.Implementation" t="IncludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="BLL.Implementation.csproj" t="IncludeRecursive" />
-        <e p="BuilderService.cs" t="Include" />
-        <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
-            <e p="netcoreapp3.1" t="Include">
-              <e p="BLL.Implementation.AssemblyInfo.cs" t="Include" />
-            </e>
-          </e>
-        </e>
-        <e p="Resources" t="Include">
-          <e p="ExceptionMessages.Designer.cs" t="Include" />
-          <e p="ExceptionMessages.resx" t="Include" />
-        </e>
-      </e>
-      <e p="BLL.Models" t="IncludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="BLL.Models.csproj" t="IncludeRecursive" />
-        <e p="BuilderModel.cs" t="Include" />
-        <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
-            <e p="netcoreapp3.1" t="Include">
-              <e p="BLL.Models.AssemblyInfo.cs" t="Include" />
-            </e>
-          </e>
-        </e>
-      </e>
-      <e p="BuilderController.sln" t="IncludeFlat" />
-      <e p="BuilderTerminal" t="IncludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="BuilderTerminal.csproj" t="IncludeRecursive" />
-        <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
-            <e p="netcoreapp3.1" t="Include">
-              <e p="BuilderTerminal.AssemblyInfo.cs" t="Include" />
+              <e p="BuilderConsole.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+      </e>
+      <e p="BuilderController.sln" t="IncludeFlat" />
+      <e p="Model" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BuilderModel.cs" t="Include" />
+        <e p="BuilderService.cs" t="Include" />
+        <e p="IBuilderService.cs" t="Include" />
+        <e p="Model.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Model.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>

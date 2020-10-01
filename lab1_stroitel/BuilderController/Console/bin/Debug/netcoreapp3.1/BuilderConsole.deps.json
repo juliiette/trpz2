@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BuilderConsole/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "3.1.8",
+          "Model": "1.0.0"
+        },
+        "runtime": {
+          "BuilderConsole.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/3.1.8": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.8"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42004"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.8": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42004"
+          }
+        }
+      },
+      "Model/1.0.0": {
+        "runtime": {
+          "Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuilderConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1TrCCRTjgfrzfUt7RRgqZ2WQl71jRGC00eYpDDwD/dGY04//rE4LKSbzoReZ8uqYXBJ4uLvByHpOuqAjSX09AQ==",
+      "path": "microsoft.extensions.dependencyinjection/3.1.8",
+      "hashPath": "microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PcGZFosGB5kb0toOuql0Gt0o3waLEaMjahd4kf4oEFjPpSiPY9ZtcqjnpmzPMukWW958clBMRWst1yot6c6HSw==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.8",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512"
+    },
+    "Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

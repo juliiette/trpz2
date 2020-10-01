@@ -27,7 +27,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "BLL.Models": "1.0.0"
+          "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj": "1.0.0",
+          "Model": "1.0.0"
         },
         "compile": {
           "bin/placeholder/BLL.Abstract.dll": {}
@@ -40,7 +41,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "BLL.Abstract": "1.0.0"
+          "BLL.Abstract": "1.0.0",
+          "Model": "1.0.0"
         },
         "compile": {
           "bin/placeholder/BLL.Implementation.dll": {}
@@ -49,14 +51,14 @@
           "bin/placeholder/BLL.Implementation.dll": {}
         }
       },
-      "BLL.Models/1.0.0": {
+      "Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/BLL.Models.dll": {}
+          "bin/placeholder/Model.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BLL.Models.dll": {}
+          "bin/placeholder/Model.dll": {}
         }
       }
     }
@@ -106,17 +108,17 @@
       "path": "../BLL.Implementation/BLL.Implementation.csproj",
       "msbuildProject": "../BLL.Implementation/BLL.Implementation.csproj"
     },
-    "BLL.Models/1.0.0": {
+    "Model/1.0.0": {
       "type": "project",
-      "path": "../BLL.Models/BLL.Models.csproj",
-      "msbuildProject": "../BLL.Models/BLL.Models.csproj"
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj",
       "BLL.Abstract >= 1.0.0",
       "BLL.Implementation >= 1.0.0",
-      "BLL.Models >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection >= 3.1.8"
     ]
   },
@@ -182,5 +184,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for '/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj'. Inside Visual Studio, this may be because the project is unloaded or not part of current solution. Otherwise the project file may be invalid or missing targets required for restore.",
+      "libraryId": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

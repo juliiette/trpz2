@@ -1,20 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Runtime.Loader;
-using Microsoft.CSharp;
-using System.Text;
-using BLL.Abstract;
-using BLL.Implementation;
-using BLL.Models;
+using Model;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace BuilderTerminal
+namespace BuilderConsole
 {
     class Program
     {
-        public static IServiceProvider DependencyResolver { get; private set; }
+        private static IServiceProvider DependencyResolver { get;  set; }
         
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             var services = new ServiceCollection();
             services.AddTransient<IBuilderService, BuilderService>();
@@ -23,10 +17,10 @@ namespace BuilderTerminal
             BuilderService builderService = new BuilderService();
             BuilderModel builder = builderService.AddBuilder(131, "Виталик", false, 32, 5);
 
-            Console.Title = "Builder Controller";
+            Console.Title = "Builder Console";
             Console.WriteLine("Write help for help.");
             
-            List<string> code = new List<string>();
+            
             while (true)
             {
                 Console.Write("user> ");
@@ -61,16 +55,19 @@ namespace BuilderTerminal
                                           +"                  "+builder.MinOnBreak);
                     }
                         break;
+                    
                     case "gowork":
                     {
                         builderService.GoWork(builder);
                     }
                         break;
+                    
                     case "endwork":
                     {
                         builderService.EndWork(builder);
                     }
                         break;
+                    
                     case "bricks":
                     {
                         Console.WriteLine("Скок кирпичиков:");
@@ -80,6 +77,7 @@ namespace BuilderTerminal
                         builderService.PutBricks(builder, n);
                     }
                         break;
+                    
                     case "break":
                     {
                         Console.WriteLine("Сколько отдыхать (в минутах):");
@@ -89,12 +87,14 @@ namespace BuilderTerminal
                         builderService.HaveABreak(builder, n);
                     }
                         break;
+                    
                     case "status":
                     {
                         Console.WriteLine("Работает?");
                         Console.WriteLine(builderService.GetStatus(builder));
                     }
                         break;
+                    
                     case "rbricks":
                     {
                         int bricks = builderService.GetBricksNum(builder);
@@ -102,6 +102,7 @@ namespace BuilderTerminal
                         
                     }
                         break;
+                    
                     case "mbreak":
                     {
                         int min = builderService.GetBreakingTime(builder);
@@ -109,6 +110,7 @@ namespace BuilderTerminal
                         
                     }
                         break;
+                    
                 }
             }
             

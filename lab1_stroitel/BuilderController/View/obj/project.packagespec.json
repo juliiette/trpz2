@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/View/View.csproj",
+    "projectName": "View",
+    "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/View/View.csproj",
+    "outputPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/View/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Controller/Controller.csproj": {
+            "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Controller/Controller.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

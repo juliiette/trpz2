@@ -6,6 +6,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\BLL.Abstract\BLL.Abstract.csproj" />
+      <ProjectReference Include="..\Model\Model.csproj" />
     </ItemGroup>
 
 </Project>

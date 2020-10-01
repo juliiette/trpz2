@@ -1,4 +1,4 @@
-namespace BLL.Models
+namespace Model
 {
     public class BuilderModel
     {

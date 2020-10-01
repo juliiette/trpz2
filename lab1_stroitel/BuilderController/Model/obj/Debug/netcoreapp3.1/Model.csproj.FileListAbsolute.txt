@@ -1,0 +1,9 @@
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Model/bin/Debug/netcoreapp3.1/Model.deps.json
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Model/bin/Debug/netcoreapp3.1/Model.dll
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Model/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Model/obj/Debug/netcoreapp3.1/Model.csprojAssemblyReference.cache
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Model/obj/Debug/netcoreapp3.1/Model.csproj.CoreCompileInputs.cache
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfoInputs.cache
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfo.cs
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Model/obj/Debug/netcoreapp3.1/Model.dll
+/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Model/obj/Debug/netcoreapp3.1/Model.pdb

@@ -17,6 +17,9 @@
         "projectReferences": {
           "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Abstract/BLL.Abstract.csproj": {
             "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Abstract/BLL.Abstract.csproj"
+          },
+          "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Model/Model.csproj": {
+            "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Model/Model.csproj"
           }
         }
       }

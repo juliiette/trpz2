@@ -2,28 +2,29 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "BLL.Models/1.0.0": {
+      "Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/BLL.Models.dll": {}
+          "bin/placeholder/Model.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BLL.Models.dll": {}
+          "bin/placeholder/Model.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "BLL.Models/1.0.0": {
+    "Model/1.0.0": {
       "type": "project",
-      "path": "../BLL.Models/BLL.Models.csproj",
-      "msbuildProject": "../BLL.Models/BLL.Models.csproj"
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BLL.Models >= 1.0.0"
+      "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj",
+      "Model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -52,6 +53,9 @@
           "projectReferences": {
             "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj": {
               "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj"
+            },
+            "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Model/Model.csproj": {
+              "projectPath": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/Model/Model.csproj"
             }
           }
         }
@@ -76,5 +80,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for '/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj'. Inside Visual Studio, this may be because the project is unloaded or not part of current solution. Otherwise the project file may be invalid or missing targets required for restore.",
+      "libraryId": "/Users/juliastanko/Documents/university/trpz/trpz-2/lab1_stroitel/BuilderController/BLL.Models/BLL.Models.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

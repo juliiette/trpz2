@@ -1,14 +1,12 @@
 using System;
 using System.Reflection;
 using System.Resources;
-using BLL.Abstract;
-using BLL.Implementation.Exceptions;
-using BLL.Models;
 
-namespace BLL.Implementation
+namespace Model
 {
     public class BuilderService : IBuilderService
     {
+        BuilderService _builderService = new BuilderService();
 
         public void GoWork(BuilderModel builder)
         {
@@ -16,8 +14,6 @@ namespace BLL.Implementation
             {
                 if (builder.AtWorkStatus)
                 {
-                    // var resManager = new ResourceManager("BLL.Implementation/Resources/ExceptionMessages.resx", Assembly.GetExecutingAssembly());
-                    // throw new BuilderAtWorkException(resManager.GetString("BuilderAtWork"));
                     throw new InvalidOperationException("The builder is already at work.");
                 }
                 else
@@ -68,7 +64,7 @@ namespace BLL.Implementation
                     if (builder.BricksPerSession > 80)
                     {
                         throw new InvalidOperationException("Too much work for builder. He will have break now.");
-                        HaveABreak(builder, 15);
+                        _builderService.HaveABreak(builder, 15);
                     }
                     else
                     {
