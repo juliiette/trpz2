@@ -2,100 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b268865-d2fa-40d3-834c-c8b50c866c1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BuilderConsole/BuilderConsole.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuilderConsole/obj/BuilderConsole.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuilderConsole/obj/BuilderConsole.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuilderConsole/obj/BuilderConsole.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuilderConsole/obj/Debug/netcoreapp3.0/BuilderConsole.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuilderConsole/obj/Debug/netcoreapp3.0/BuilderConsole.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuilderConsole/obj/Debug/netcoreapp3.0/BuilderConsole.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuilderConsole/obj/Debug/netcoreapp3.0/BuilderConsole.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuilderConsole/obj/Debug/netcoreapp3.1/BuilderConsole.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuilderConsole/obj/Debug/netcoreapp3.1/BuilderConsole.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuilderConsole/obj/Debug/netcoreapp3.1/BuilderConsole.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuilderConsole/obj/Debug/netcoreapp3.1/BuilderConsole.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuilderConsole/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuilderConsole/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/Console.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/bin/Debug/netcoreapp3.1/BuilderConsole.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/bin/Debug/netcoreapp3.1/BuilderConsole.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/bin/Debug/netcoreapp3.1/BuilderConsole.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/bin/Debug/netcoreapp3.1/Model.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/bin/Debug/netcoreapp3.1/Model.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Console.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Console.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Console.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Controller.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Controller.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Controller.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.0/Controller.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.0/Controller.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.0/Controller.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.0/Controller.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.1/BuilderConsole.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.1/BuilderConsole.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.1/Console.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.1/Console.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.1/Console.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.1/Console.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.1/Console.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.1/Console.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.1/Console.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.1/Controller.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.1/Controller.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/Debug/netcoreapp3.1/Controller.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Model.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/bin/Debug/netcoreapp3.1/Model.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/bin/Debug/netcoreapp3.1/Model.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/bin/Debug/netcoreapp3.1/Model.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.0/Model.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.0/Model.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.0/Model.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.1/Model.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.1/Model.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.1/Model.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.1/Model.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.1/Model.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.1/Model.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/Model.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/Model.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/Model.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/View.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/obj/Debug/netcoreapp3.0/View.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/obj/Debug/netcoreapp3.0/View.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/obj/Debug/netcoreapp3.0/View.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/obj/Debug/netcoreapp3.1/View.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/obj/Debug/netcoreapp3.1/View.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/obj/Debug/netcoreapp3.1/View.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/obj/View.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/obj/View.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/obj/View.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BuilderController/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BuilderController/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BuilderController/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BuilderController/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL.Abstract/BLL.Abstract.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Abstract/BLL.Abstract.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL.Abstract/IBuilderService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/IBuilderService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL.Abstract/obj/BLL.Abstract.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Abstract/obj/BLL.Abstract.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL.Abstract/obj/BLL.Abstract.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Abstract/obj/BLL.Abstract.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL.Abstract/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Abstract/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL.Abstract/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Abstract/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL.Implementation/BLL.Implementation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Implementation/BLL.Implementation.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL.Implementation/BuilderService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/BuilderService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL.Implementation/obj/BLL.Implementation.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Implementation/obj/BLL.Implementation.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL.Implementation/obj/BLL.Implementation.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Implementation/obj/BLL.Implementation.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL.Implementation/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Implementation/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL.Implementation/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL.Implementation/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL.Models/BuilderModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/BuilderModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuilderController.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BuilderController.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuilderTerminal/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BuilderConsole/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuilderTerminal/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BuilderTerminal/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuilderConsole/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BuilderConsole/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuilderConsole/obj/Debug/netcoreapp3.1/BuilderConsole.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BuilderConsole/obj/Debug/netcoreapp3.1/BuilderConsole.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/BuilderService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/BuilderService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/bin/Debug/netcoreapp3.1/Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Model/bin/Debug/netcoreapp3.1/Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/bin/Debug/netcoreapp3.1/Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Model/bin/Debug/netcoreapp3.1/Model.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.1/Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.1/Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.1/Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp3.1/Model.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,17 +22,73 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BuilderConsole/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="375">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding>
-                <marker date="1601542624143" expanded="true" signature="6:74" ph="..." />
-                <marker date="1601542624143" expanded="true" signature="100:4512" ph="{...}" />
-                <marker date="1601542624143" expanded="true" signature="120:4510" ph="{...}" />
-                <marker date="1601542624143" expanded="true" signature="257:4504" ph="{...}" />
-                <marker date="1601542624143" expanded="true" signature="780:4481" ph="{...}" />
-                <marker date="1601542624143" expanded="true" signature="916:4467" ph="{...}" />
-                <marker date="1601542624143" expanded="true" signature="1071:1670" ph="{...}" />
-                <marker date="1601542624143" expanded="true" signature="1725:1829" ph="{...}" />
+                <marker date="1601627698630" expanded="true" signature="6:108" ph="..." />
+                <marker date="1601627698630" expanded="true" signature="134:720" ph="{...}" />
+                <marker date="1601627698630" expanded="true" signature="154:718" ph="{...}" />
+                <marker date="1601627698630" expanded="true" signature="208:712" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Model/BuilderModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <marker date="1601538383181" expanded="true" signature="15:307" ph="{...}" />
+                <marker date="1601538383181" expanded="true" signature="47:305" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Model/BuilderService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+              <folding>
+                <marker date="1601627679232" expanded="true" signature="6:62" ph="..." />
+                <marker date="1601627679232" expanded="true" signature="79:3435" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="131:3433" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="186:500" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="234:354" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="551:822" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="599:673" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="690:799" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="887:1570" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="933:1434" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="980:1111" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="1163:1311" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="1451:1560" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="1633:2206" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="1679:2070" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="1723:1857" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="2087:2196" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="2259:2490" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="2332:2391" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="2545:2875" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="2620:2699" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="2716:2825" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="2933:2992" ph="{...}" />
+                <marker date="1601627679232" expanded="true" signature="3110:3427" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Model/IBuilderService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1601540708111" expanded="true" signature="16:533" ph="{...}" />
+                <marker date="1601540708111" expanded="true" signature="55:531" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -162,8 +132,8 @@
         <option value="$PROJECT_DIR$/Model/IBuilderService.cs" />
         <option value="$PROJECT_DIR$/View/Program.cs" />
         <option value="$PROJECT_DIR$/Controller/Program.cs" />
-        <option value="$PROJECT_DIR$/Model/BuilderService.cs" />
         <option value="$PROJECT_DIR$/Console/Program.cs" />
+        <option value="$PROJECT_DIR$/Model/BuilderService.cs" />
         <option value="$PROJECT_DIR$/BuilderConsole/Program.cs" />
       </list>
     </option>
@@ -185,6 +155,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
@@ -208,7 +179,6 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,7 +238,9 @@
       <workItem from="1600295436533" duration="7974000" />
       <workItem from="1601489747093" duration="248000" />
       <workItem from="1601537525449" duration="3807000" />
-      <workItem from="1601542058600" duration="863000" />
+      <workItem from="1601542058600" duration="914000" />
+      <workItem from="1601542996663" duration="2775000" />
+      <workItem from="1601626567619" duration="1111000" />
     </task>
     <task id="LOCAL-00001" summary="работает, но солиды не соблюдены мб">
       <created>1600334927783</created>
@@ -277,11 +249,18 @@
       <option name="project" value="LOCAL" />
       <updated>1600334927783</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="не работает :)">
+      <created>1601542939784</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601542939785</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20597000" />
+    <option name="totallyTimeSpent" value="24534000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -296,12 +275,12 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2081545" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21387696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2029703" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44430694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39975247" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -328,7 +307,8 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="работает, но солиды не соблюдены мб" />
-    <option name="LAST_COMMIT_MESSAGE" value="работает, но солиды не соблюдены мб" />
+    <MESSAGE value="не работает :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="не работает :)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -370,6 +350,7 @@
         <state relative-caret-position="210">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
+            <marker date="1601538383181" expanded="true" signature="15:307" ph="{...}" />
             <marker date="1601538383181" expanded="true" signature="47:305" ph="{...}" />
           </folding>
         </state>
@@ -377,47 +358,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Model/BuilderService.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+        <state relative-caret-position="324">
+          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
           <folding>
-            <element signature="e#0#62#0" expanded="true" />
-            <marker date="1601541565366" expanded="true" signature="131:4698" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="250:772" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="276:630" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="332:460" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="481:616" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="662:736" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="823:1276" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="849:1147" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="905:991" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="1012:1133" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="1179:1253" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="1341:2318" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="1367:2202" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="1421:2046" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="1476:1619" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="1675:1899" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="1924:2028" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="2067:2188" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="2234:2308" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="2381:3176" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="2407:3060" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="2461:2904" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="2513:2659" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="2684:2886" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="2925:3046" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="3092:3166" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="3229:3573" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="3288:3429" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="3344:3415" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="3461:3535" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="3628:4140" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="3683:3984" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="3737:3828" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="3849:3970" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="4016:4090" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="4198:4257" ph="{...}" />
-            <marker date="1601541565366" expanded="true" signature="4375:4692" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="6:62" ph="..." />
+            <marker date="1601627679232" expanded="true" signature="79:3435" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="131:3433" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="186:500" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="234:354" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="551:822" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="599:673" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="690:799" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="887:1570" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="933:1434" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="980:1111" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="1163:1311" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="1451:1560" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="1633:2206" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="1679:2070" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="1723:1857" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="2087:2196" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="2259:2490" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="2332:2391" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="2545:2875" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="2620:2699" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="2716:2825" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="2933:2992" ph="{...}" />
+            <marker date="1601627679232" expanded="true" signature="3110:3427" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -426,6 +393,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
+            <marker date="1601540708111" expanded="true" signature="16:533" ph="{...}" />
             <marker date="1601540708111" expanded="true" signature="55:531" ph="{...}" />
           </folding>
         </state>
@@ -433,17 +401,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BuilderConsole/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding>
-            <marker date="1601542624143" expanded="true" signature="6:74" ph="..." />
-            <marker date="1601542624143" expanded="true" signature="100:4512" ph="{...}" />
-            <marker date="1601542624143" expanded="true" signature="120:4510" ph="{...}" />
-            <marker date="1601542624143" expanded="true" signature="257:4504" ph="{...}" />
-            <marker date="1601542624143" expanded="true" signature="780:4481" ph="{...}" />
-            <marker date="1601542624143" expanded="true" signature="916:4467" ph="{...}" />
-            <marker date="1601542624143" expanded="true" signature="1071:1670" ph="{...}" />
-            <marker date="1601542624143" expanded="true" signature="1725:1829" ph="{...}" />
+            <marker date="1601627698630" expanded="true" signature="6:108" ph="..." />
+            <marker date="1601627698630" expanded="true" signature="134:720" ph="{...}" />
+            <marker date="1601627698630" expanded="true" signature="154:718" ph="{...}" />
+            <marker date="1601627698630" expanded="true" signature="208:712" ph="{...}" />
           </folding>
         </state>
       </provider>

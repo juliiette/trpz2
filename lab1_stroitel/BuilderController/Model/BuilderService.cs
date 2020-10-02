@@ -6,123 +6,87 @@ namespace Model
 {
     public class BuilderService : IBuilderService
     {
-        BuilderService _builderService = new BuilderService();
-
         public void GoWork(BuilderModel builder)
         {
-            try
+            if (builder.AtWorkStatus)
             {
-                if (builder.AtWorkStatus)
-                {
                     throw new InvalidOperationException("The builder is already at work.");
-                }
-                else
-                {
-                    builder.BricksPerSession = 0;
-                    builder.AtWorkStatus = true;
-                }
             }
-            catch (Exception e)
+            
             {
-                Console.WriteLine(e.Message);
-            }
-            
-            
+                builder.BricksPerSession = 0;
+                builder.AtWorkStatus = true;
+            }    
         }
 
         public void EndWork(BuilderModel builder)
         {
-            try
+            if (builder.AtWorkStatus)
             {
-                if (builder.AtWorkStatus)
-                {
-                    builder.AtWorkStatus = false;
-                }
-                else
-                {
-                    throw new InvalidOperationException("The builder is chilling.");
-                }
+                builder.AtWorkStatus = false;
             }
-            catch (Exception e)
+            else
             {
-                Console.WriteLine(e.Message);
+                throw new InvalidOperationException("The builder is chilling.");
             }
             
         }
 
         public void PutBricks(BuilderModel builder, int bricks)
         {
-            try
+            if (GetStatus(builder))
             {
-                if (GetStatus(builder))
+                if (bricks > 20)
                 {
-                    if (bricks > 20)
-                    {
-                        throw new InvalidOperationException("Number of bricks must be under 20.");
-                    }
-
-                    if (builder.BricksPerSession > 80)
-                    {
-                        throw new InvalidOperationException("Too much work for builder. He will have break now.");
-                        _builderService.HaveABreak(builder, 15);
-                    }
-                    else
-                    {
-                        builder.BricksPerSession += bricks;
-                    }
+                    throw new InvalidOperationException("Number of bricks must be under 20.");
                 }
-                else
+
+                if (builder.BricksPerSession > 80)
                 {
-                    throw new InvalidOperationException("The builder is chilling.");
+                    throw new InvalidOperationException("Too much work for builder. Give him a break!!!1111!");
+                }
+                
+                {
+                    builder.BricksPerSession += bricks;
                 }
             }
-            catch (Exception e)
+            else
             {
-                Console.WriteLine(e.Message);
+                throw new InvalidOperationException("The builder is chilling.");
             }
         }
 
         public void HaveABreak(BuilderModel builder, int min)
         {
-            try
+            if (GetStatus(builder))
             {
-                if (GetStatus(builder))
+                if (min < 15)
                 {
-                    if (min < 15)
-                    {
-                        throw new InvalidOperationException("Builder should chill at least 15 min.");
-                    }
-                    else
-                    {
-                        builder.AtWorkStatus = false;
-                        builder.MinOnBreak = min;
-                        builder.BricksPerSession = 0;
-                    }
+                    throw new InvalidOperationException("Builder should chill at least 15 min.");
                 }
-                else
+                
                 {
-                    throw new InvalidOperationException("The builder is chilling.");
+                    builder.AtWorkStatus = false;
+                    builder.MinOnBreak = min;
+                    builder.BricksPerSession = 0;
                 }
             }
-            catch (Exception e)
+            else
             {
-                Console.WriteLine(e.Message);
+                throw new InvalidOperationException("The builder is chilling.");
             }
         }
 
         public bool GetStatus(BuilderModel builder)
         {
-            bool status = false;
-            try
+            bool status;
+            if (builder.AtWorkStatus)
             {
-                if (builder.AtWorkStatus)
-                {
-                    status = true;
-                }
+                status = true;
             }
-            catch (Exception e)
+
             {
-                Console.WriteLine(e.Message);
+                status = false;
             }
 
             return status;
@@ -132,20 +96,13 @@ namespace Model
         {
             int bricks = 0;
 
-            try
+            if (GetStatus(builder))
             {
-                if (GetStatus(builder))
-                {
-                    bricks = builder.BricksPerSession;
-                }
-                else
-                {
-                    throw new InvalidOperationException("The builder is chilling.");
-                }
+                bricks = builder.BricksPerSession;
             }
-            catch (Exception e)
+            else
             {
-                Console.WriteLine(e.Message);
+                throw new InvalidOperationException("The builder is chilling.");
             }
             
             return bricks;
